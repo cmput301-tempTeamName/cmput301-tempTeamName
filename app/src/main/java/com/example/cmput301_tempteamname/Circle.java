@@ -7,7 +7,5 @@ public class Circle extends Shape {
         super(x, y);
         this.radius = radius;
     }
-
-    // Additional methods and logic for Circle
 }
 
