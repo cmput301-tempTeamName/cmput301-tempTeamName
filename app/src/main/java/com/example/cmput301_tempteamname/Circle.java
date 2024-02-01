@@ -1,3 +1,5 @@
+package com.example.cmput301_tempteamname;
+
 public class Circle extends Shape {
     private double radius;
 
@@ -5,6 +7,4 @@ public class Circle extends Shape {
         super(x, y);
         this.radius = radius;
     }
-
-    
 }
